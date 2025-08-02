@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanziarahman&label=Profile%20views&color=0e75b6&style=flat" alt="tanziarahman" /> </p>
 
 - 🔭 I’m currently working on **Palgio**
-
-- 🌱 I’m currently learning **Data Structures, Database Management Systems**
-
 - 📫 How to reach me **tanziarahman566@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
