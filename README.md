@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanziarahman&label=Profile%20views&color=0e75b6&style=flat" alt="tanziarahman" /> </p>
 
-- 🔭 I’m currently working on [Iris-Detection](https://github.com/tanziarahman/Iris-Detection.git)
+- 🔭 I’m currently working on [CollabHive](https://github.com/tanziarahman/CollabHive.git)
 
 - 🌱 I’m currently learning **ML tools and algorithms**
 
