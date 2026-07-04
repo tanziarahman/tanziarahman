@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [CollabHive](https://github.com/tanziarahman/CollabHive.git)
 
-- 🌱 I’m currently learning **ML tools and algorithms**
+- 🌱 I’m currently learning **System Design**
 
-- 📫 How to reach me **tanziarahman566@gmail.com**
+- 📫 How to reach me **tanziarahman@iut-dhaka.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
