@@ -19,7 +19,7 @@
   <tr>
     <td>🎯</td>
     <td><b>Role</b></td>
-    <td>Aspiring Software Engineer</td>
+    <td>SWE Student</td>
   </tr>
   <tr>
     <td>🔨</td>
@@ -90,6 +90,9 @@ I'm a student software engineer passionate about building real projects and shar
   </a>
   <a href="https://www.leetcode.com/tanziarahman" target="blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/Tanzia" target="blank">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="mailto:tanziarahman566@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
