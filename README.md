@@ -52,12 +52,9 @@ I'm a student software engineer passionate about building real projects and shar
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanziarahman&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanziarahman&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanziarahman&theme=react-dark&hide_border=true" alt="Activity Graph" width="97%" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=tanziarahman" alt="Tanzia's GitHub stats" />
+  </a>
 </p>
 
 ---
@@ -77,12 +74,11 @@ I'm a student software engineer passionate about building real projects and shar
 ### 📌 Featured Project
 
 <p align="center">
-  <a href="https://github.com/tanziarahman/CollabHive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanziarahman&repo=CollabHive&theme=dracula&hide_border=true" />
-  </a>
+  🔗 <a href="https://github.com/tanziarahman/CollabHive"><b>CollabHive</b></a> — [add a one-line description of what it does and the stack you used]
 </p>
 
-<!-- Add more repos here the same way once you have them pinned -->
+<!-- Once the github-readme-stats pin card service is back up, you can swap this
+     for a visual pin card using the same domain as your stats badge above. -->
 
 ---
 
