@@ -15,13 +15,28 @@
 
 ### 👀 About Me
 
-```yaml
-name: "Tanzia Rahman"
-role: "Aspiring Software Engineer"
-currently_building: "CollabHive"
-currently_learning: "System Design"
-reach_me_at: "tanziarahman566@gmail.com"
-```
+<table>
+  <tr>
+    <td>🎯</td>
+    <td><b>Role</b></td>
+    <td>Aspiring Software Engineer</td>
+  </tr>
+  <tr>
+    <td>🔨</td>
+    <td><b>Currently Building</b></td>
+    <td><a href="https://github.com/tanziarahman/CollabHive">CollabHive</a></td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><b>Currently Learning</b></td>
+    <td>System Design</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td><b>Reach Me</b></td>
+    <td><a href="mailto:tanziarahman566@gmail.com">tanziarahman566@gmail.com</a></td>
+  </tr>
+</table>
 
 <details>
 <summary>📖 Click to read more about me</summary>
