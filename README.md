@@ -19,7 +19,7 @@
   <tr>
     <td>🎯</td>
     <td><b>Role</b></td>
-    <td>Aspiring Software Engineer</td>
+    <td>SWE Student</td>
   </tr>
   <tr>
     <td>🔨</td>
