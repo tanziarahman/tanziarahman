@@ -19,7 +19,7 @@
   <tr>
     <td>🎯</td>
     <td><b>Role</b></td>
-    <td>SWE Student</td>
+    <td>Aspiring Software Engineer</td>
   </tr>
   <tr>
     <td>🔨</td>
@@ -71,29 +71,6 @@ I'm a student software engineer passionate about building real projects and shar
     <img src="https://github-stats-extended.vercel.app/api?username=tanziarahman" alt="Tanzia's GitHub stats" />
   </a>
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<!--
-  Animates your contribution graph into a snake that "eats" your squares.
-  One-time setup (~2 min) with this GitHub Action: https://github.com/Platane/snk#readme
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanziarahman/tanziarahman/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📌 Featured Project
-
-<p align="center">
-  🔗 <a href="https://github.com/tanziarahman/CollabHive"><b>CollabHive</b></a> — [add a one-line description of what it does and the stack you used]
-</p>
-
-<!-- Once the github-readme-stats pin card service is back up, you can swap this
-     for a visual pin card using the same domain as your stats badge above. -->
 
 ---
 
