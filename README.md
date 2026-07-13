@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Hi%20There,%20I'm%20Tanzia%20Rahman&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Hi%20There,%20I'm%20Tanzia%20Rahman&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergrad&descAlignY=55&descSize=18" alt="header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
